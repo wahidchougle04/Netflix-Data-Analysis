@@ -47,3 +47,4 @@ This project analyzes **6,234 records** from the Netflix catalog (spanning relea
 | **Data Types** | `int64` (2), `object` (10) |
 
 ---
+<img width="422" height="750" alt="Dashboard" src="https://github.com/user-attachments/assets/cca62c55-2bf2-4a64-9267-c6cec3da2e91" />
